@@ -1,0 +1,50 @@
+id,name,isFree,courseCategories
+905,Jupyter Notebook Fundamentals,1,
+1000,Introduction to Wheeled Robots,1,8/10/17
+3000,Introduction to 3D Printing,1,13/17
+3100,Introduction to LawTech with Artificial Intelligence,1,
+5000,Introduction to Robotic Arms,1,13/14/17
+5002,Introduction to Agricultural Robots,1,
+5003,Introduction to Surgical Robots,1,
+5005,Introduction to Quadruped Robots,1,
+7000,Introduction to Humanoid Robots,1,9/13/17
+8000,Introduction to Drones,1,7/13/17
+901,Python Basics For AI & Robotics I,0,10
+902,Python Basics for AI & Robotics II,0,10
+903,AWS Women Python Program,0,
+904,Web Scraping with Python,0,
+1001,Build A Motion Controlled Wheeled Robot,0,8/10/13/15/17
+1002,Obstacle Avoidance with Wheeled Robots,0,8/10/15/17
+1003,Wheeled Robot Navigation - Maze Escape,0,8/10/15/17
+1004,Object Detection with Wheeled Robots,0,
+1005,Robotic Arm Control with Wheeled Robots,0,8/10/12/17
+1006,Object Collection with Wheeled Robots,0,8/10/13/14/17
+1007,Build a Lane Following Driverless Car,0,8/10/12/16/17
+1008,Human Tracking with Driverless Cars,0,8/10/12/16/17/18
+1009,Traffic Light & Sign Detection for Driverless Cars with OpenCV Python and NNs,0,
+1100,Mars Rover Race with Scratch,0,
+1101,Mars Tianwen-1 Mission,0,
+1102,Mars Ingenuity Helicopter,0,
+2001,RoboCup Junior - Rescue Line Following,0,8/17
+2002,RoboCup Junior - Rescue Victim Evacuation,0,8/17
+2003,RoboCup Junior - Maze Navigation,0,8/17
+3001,Delivery Robot Design,0,13/17
+3002,Medical Robot Design,0,
+4000,Introduction to Machine Learning,0,18
+4001,Build your first ML Algorithm in 10 minutes,0,18
+5001,Introduction to Robotics,0,
+5004,Robotic Arm Control Simulation with ROS Gazebo and MoveIt!,0,
+6002,Infrared Sensor Control with Python,0,10/13/15/17
+6004,Temperature Sensor Control with Python,0,10/13/15/17
+9000,Introduction to Speech Recognition with Neural Networks,0,11/18
+9001,Hot Word Detection with Python Neural Networks-TensorFlow and ROS Integration,0,10/11/15/18
+9002,Automatic Speech Recognition with DeepSpeech Python and ROS Integration,0,10/11/18
+9003,Natural Language Understanding with Python Neural Networks-TensorFlow and ROS Integration,0,10/11/18
+9004,Camera Calibration – 2D to 3D Pose Conversion with OpenCV Python and ROS Integration,0,10/11/12/18
+9005,Object Detection with Deep Learning TensorFlow 2 and Python,0,10/12/18
+9006,Introduction to TensorFlow and Keras,0,10/12/18
+9100,AWS Robotics Fundamentals,0,
+9101,AWS ROS Basics,0,
+9102,AWS RoboMaker Setup,0,
+9103,AWS Ubuntu-ROS System Setup,0,
+9104,AWS ROS-Gazebo Simulations,0,
